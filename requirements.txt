@@ -1,0 +1,8 @@
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+SALib>=1.4.7
+cma>=3.3
+matplotlib>=3.8
+python-docx>=1.1
+lxml>=4.9

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+manuscript.docx
+manuscript.pdf
+ieee_template.docx
